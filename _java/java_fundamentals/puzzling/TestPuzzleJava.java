@@ -1,5 +1,6 @@
 //had to import ArrayList same as Random as they're BOTH part of the util library (java.util)
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Random;
 
 //we're basically using this file for testing.
@@ -14,9 +15,12 @@ public class TestPuzzleJava {
 		ArrayList<Integer> randomRolls = generator.getTenRolls();
         //then print the randomRolls variable value...
 		System.out.println(randomRolls);
-		
 //here we will print out all the rest of the returns from other methods called upon from the PuzzleJave class in the PuzzleJava.java file, just to see if they work properly
-    // System.out.println(generator.getRandomLetter());
+        System.out.println(generator.getRandomLetter());
+        System.out.println(generator.generatePassword());
+        System.out.println(generator.getNewPasswordSet(3));
+        int [] shuffle = {4,5,7,9,1};
+        System.out.println(Arrays.toString(generator.shuffleArray(shuffle)));
 	}
 }
 

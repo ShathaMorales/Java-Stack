@@ -16,4 +16,51 @@ public class PuzzleJava {
         }
         return randomNumbers;
         }
+    //getRandomLetter
+    //Create an array within the method that contains all 26 letters of the alphabet (this array must have 26 values).
+    //Generate a random index between 0-25 and use it to pull a random letter out of the array.
+    //Return the random letter.
+    public char getRandomLetter() {
+        char[] alphabet = new char [26];
+        for (char c = 'a'; c <= 'z'; c++) {
+            alphabet[c - 'a'] = c;
+        }
+        Random randMachine = new Random();
+        // randMachine.nextInt(26);
+        return alphabet[randMachine.nextInt(26)];
     }
+
+    //generatePassword
+    //Write a method that uses the previous method to create a random string of eight characters and return that string.
+    public String generatePassword(){
+        String password = new String();
+        for (int i = 0; i<8; i++) {
+            char temp = getRandomLetter();
+            password = password.concat(String.valueOf(temp));
+    }
+    return password;
+    }
+
+    //getNewPasswordSet
+    //Write a method that takes an int length as an argument and creates an array of random eight-character words. The array should be the length passed in as an int. Return the array of passwords.
+    public ArrayList<String> getNewPasswordSet(int length){
+        ArrayList<String> passwordSet = new ArrayList<String>();
+        for (int i = 0; i < length; i++){
+            passwordSet.add(generatePassword());
+        }
+    return passwordSet;
+    }
+
+    //shuffleArray
+    //Write a method that takes an array and mixes up all the values in a pseudo-random way. Hint: use random indexes within the array, and swap values repeatedly.
+    public int[] shuffleArray(int[] shuffle){
+        Random randMachine = new Random();
+        for ( int i = 0; i < shuffle.length; i++ ){
+            int randNumber = randMachine.nextInt(shuffle.length);
+            int temp = shuffle[randNumber];
+            shuffle[randNumber] = shuffle[i];
+            shuffle[i]= temp;
+        }
+        return shuffle;
+    }
+}
