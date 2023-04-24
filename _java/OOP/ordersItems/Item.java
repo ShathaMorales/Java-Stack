@@ -1,13 +1,12 @@
-import java.util.ArrayList;
+//Create the Item class with the member variables listed above
 
-class Item {
+public class Item {
     public String name;
     public double price;
-    public ArrayList<Item> items = new ArrayList<Item>();
-
-    public void setName(String name, double price, Item item) {
+    
+    public Item(String name, double price){
         this.name = name;
         this.price = price;
-        this.items.add(item);
     }
+
 }
