@@ -1,0 +1,28 @@
+package com.example.demo;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HelloHuman {
+		@RequestMapping("/")
+	    public String index(@RequestParam(value="FirstName", required=false) String searchQuery) {
+	        if(searchQuery==null) {
+	        	return "Hello Human";
+	        }
+	        else {
+	        	return "Hello: " + searchQuery;   	
+	        }
+		}
+			@RequestMapping("/")	  
+		    public String index2(@RequestParam(value="FirstName", required=false) String searchQuery, @RequestParam(value="LastName", required=false) String searchQuery2) {
+		        if(searchQuery==null) {
+		        	return "Hello Human";
+		        }
+		        else {
+		        	return "Hello: " + searchQuery + searchQuery2;    	
+		        }	  
+		}
+
+}
