@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/HopperReceipt/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2272718703.index
+1709796360.index
+2451012591.index
+2820705531.index
+111268252.index
+2730381748.index
+1600518829.index
