@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+	text-align: center;
+	padding-top: 180px;
+	font-size: 20px;
+	font-family: sans-serif;
+	color: blue;
+}
+
+div {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}

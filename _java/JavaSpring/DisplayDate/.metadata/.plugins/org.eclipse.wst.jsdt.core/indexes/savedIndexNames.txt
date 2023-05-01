@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/DisplayDate/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+684192331.index
+2550654416.index
+1878627897.index
+2835710193.index
+1225053439.index
+1311617209.index
+2698546881.index
