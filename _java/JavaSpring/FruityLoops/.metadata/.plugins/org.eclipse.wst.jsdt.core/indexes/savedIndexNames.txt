@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/FruityLoops/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+686359191.index
+1091418661.index
+3344242340.index
+4015790153.index
+2206252896.index
+869262906.index
+3709492471.index
