@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+/Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/BooksAPI/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2870199163.index
+2284674798.index
+3895652023.index
+120461174.index

@@ -1,0 +1,5 @@
+package com.codingdojo.booksapi.services;
+
+public class BookService {
+
+}
