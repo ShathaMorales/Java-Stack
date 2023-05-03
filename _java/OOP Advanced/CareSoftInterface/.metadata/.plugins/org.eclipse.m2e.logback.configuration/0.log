@@ -1,0 +1,133 @@
+2023-05-03 10:27:54,541 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-03 10:33:11,557 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.caresoft.clinicapp:CareSoftInterface:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/pom.xml.
+2023-05-03 10:33:13,971 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CareSoftInterface/src/main/java
+2023-05-03 10:33:13,972 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CareSoftInterface/src/main/resources
+2023-05-03 10:33:13,976 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CareSoftInterface/src/main/resources
+2023-05-03 10:33:13,980 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CareSoftInterface/src/test/java
+2023-05-03 10:33:17,919 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2023-05-03 10:33:17,928 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-03 10:33:18,681 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.caresoft.clinicapp:CareSoftInterface:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/pom.xml.
+2023-05-03 10:33:19,623 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CareSoftInterface/src/main/java
+2023-05-03 10:33:19,623 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CareSoftInterface/src/main/resources
+2023-05-03 10:33:19,624 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CareSoftInterface/src/main/resources
+2023-05-03 10:33:19,625 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CareSoftInterface/src/test/java
+2023-05-03 10:33:20,693 [Worker-11: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CareSoftInterface
+2023-05-03 10:33:20,703 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-05-03 10:33:21,331 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:33:21,417 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:33:21,427 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:33:21,428 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CareSoftInterface
+2023-05-03 10:33:21,430 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CareSoftInterface
+2023-05-03 10:33:39,135 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:33:39,171 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:33:39,178 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:33:58,504 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:33:58,681 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:33:58,689 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:34:20,723 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:34:20,743 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:34:20,763 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:34:37,913 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:34:37,925 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:34:37,931 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:34:59,408 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:34:59,416 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:34:59,421 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:35:21,113 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:35:21,122 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:35:21,126 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:41:16,529 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:41:16,559 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:41:16,567 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:41:58,718 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:41:58,812 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:41:58,818 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:42:24,430 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:42:24,480 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:42:24,496 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:45:24,350 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:45:24,404 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:45:24,408 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:45:34,520 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:45:34,565 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:45:34,569 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:46:12,620 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:46:12,651 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:46:12,656 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:47:02,698 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:47:02,707 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:47:02,711 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 10:48:55,166 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 10:48:55,444 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 10:48:55,455 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:06:33,598 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:06:33,701 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:06:33,712 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:09:18,099 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:09:18,181 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:09:18,186 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:11:34,650 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:11:34,678 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:11:34,683 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:14:42,092 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:14:42,117 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:14:42,122 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:16:51,433 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:16:51,467 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:16:51,475 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:20:06,742 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:20:06,794 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:20:06,801 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:22:00,012 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:22:00,031 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:22:00,035 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:22:34,436 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:22:34,450 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:22:34,458 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:22:40,621 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:22:40,633 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:22:40,641 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:26:09,211 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:26:09,288 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:26:09,293 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:26:14,040 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-03 11:26:14,677 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.caresoft.clinicapp:CareSoftInterface:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/pom.xml.
+2023-05-03 11:26:16,009 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CareSoftInterface/src/main/java
+2023-05-03 11:26:16,009 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CareSoftInterface/src/main/resources
+2023-05-03 11:26:16,010 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CareSoftInterface/src/main/resources
+2023-05-03 11:26:16,011 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CareSoftInterface/src/test/java
+2023-05-03 11:26:16,480 [Worker-19: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CareSoftInterface
+2023-05-03 11:26:16,501 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-05-03 11:26:16,883 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:26:16,925 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:26:16,931 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:26:16,932 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CareSoftInterface
+2023-05-03 11:26:16,932 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CareSoftInterface
+2023-05-03 11:26:28,211 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CareSoftInterface
+2023-05-03 11:26:28,550 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:26:28,553 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:26:28,557 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:26:28,557 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CareSoftInterface
+2023-05-03 11:26:28,557 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CareSoftInterface
+2023-05-03 11:26:45,131 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-03 11:26:45,569 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.caresoft.clinicapp:CareSoftInterface:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/pom.xml.
+2023-05-03 11:26:46,452 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CareSoftInterface/src/main/java
+2023-05-03 11:26:46,452 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CareSoftInterface/src/main/resources
+2023-05-03 11:26:46,452 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CareSoftInterface/src/main/resources
+2023-05-03 11:26:46,453 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CareSoftInterface/src/test/java
+2023-05-03 11:26:46,856 [Worker-35: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CareSoftInterface
+2023-05-03 11:26:46,872 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-05-03 11:26:47,271 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:26:47,311 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:26:47,316 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:26:47,317 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CareSoftInterface
+2023-05-03 11:26:47,317 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CareSoftInterface
+2023-05-03 11:26:56,792 [Worker-38: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CareSoftInterface
+2023-05-03 11:26:56,998 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:26:56,999 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:26:57,002 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources
+2023-05-03 11:26:57,002 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CareSoftInterface
+2023-05-03 11:26:57,002 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CareSoftInterface
+2023-05-03 11:28:32,305 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-03 11:28:32,346 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-03 11:28:32,353 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/CareSoftInterface/src/test/resources

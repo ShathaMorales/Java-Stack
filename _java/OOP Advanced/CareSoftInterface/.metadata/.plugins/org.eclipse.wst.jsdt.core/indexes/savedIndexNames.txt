@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/OOP/OOP Advanced/CareSoftInterface/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2574591425.index
+171626629.index
+3410561932.index
+4198349381.index
+688053605.index
