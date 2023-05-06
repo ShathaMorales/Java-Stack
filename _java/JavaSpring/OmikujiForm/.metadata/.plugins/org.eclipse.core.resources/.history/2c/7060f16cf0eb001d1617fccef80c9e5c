@@ -1,0 +1,15 @@
+package com.codingdojo.omikuji;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class OmikujiApp {
+
+	//Make a request mapping for the url /omikuji to render the main page showing the Omikuji form.
+	@RequestMapping("/")
+	public String index() {
+		return "index.jsp";
+	}
+	
+}

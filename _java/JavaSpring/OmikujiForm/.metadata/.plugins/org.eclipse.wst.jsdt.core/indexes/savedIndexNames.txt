@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/OmikujiForm/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3089751680.index
+1912025302.index
+2134197568.index
+320468381.index
+1568350460.index
+738214566.index
+3259957054.index
