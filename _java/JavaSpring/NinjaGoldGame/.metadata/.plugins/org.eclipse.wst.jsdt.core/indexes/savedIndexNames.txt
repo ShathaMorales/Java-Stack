@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+698913042.index
+1171572990.index
+3788936841.index
+1131160251.index
+3751822496.index
+1963875859.index
+2918923383.index

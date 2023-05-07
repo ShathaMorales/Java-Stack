@@ -1,0 +1,468 @@
+2023-05-06 06:13:37,218 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-06 06:15:59,079 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:Gold:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/pom.xml.
+2023-05-06 06:16:00,670 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Gold/src/main/java
+2023-05-06 06:16:00,671 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Gold/src/main/resources
+2023-05-06 06:16:00,673 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Gold/src/main/resources
+2023-05-06 06:16:00,679 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Gold/src/test/java
+2023-05-06 06:16:03,833 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2023-05-06 06:16:03,840 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-06 06:16:04,197 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:Gold:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/pom.xml.
+2023-05-06 06:16:04,795 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Gold/src/main/java
+2023-05-06 06:16:04,797 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Gold/src/main/resources
+2023-05-06 06:16:04,797 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Gold/src/main/resources
+2023-05-06 06:16:04,798 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Gold/src/test/java
+2023-05-06 06:16:05,840 [Worker-7: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Gold
+2023-05-06 06:16:05,846 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-05-06 06:16:06,422 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:16:06,456 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:16:06,462 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:16:06,463 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Gold
+2023-05-06 06:16:06,464 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Gold
+2023-05-06 06:16:56,616 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:Gold:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/pom.xml.
+2023-05-06 06:16:57,406 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:16:57,406 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:16:57,411 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:16:57,411 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Gold
+2023-05-06 06:16:57,412 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Gold
+2023-05-06 06:16:58,718 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:16:58,746 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:16:58,749 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:17:18,583 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:17:18,583 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:17:18,589 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:17:34,832 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:17:34,833 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:17:34,836 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:17:43,198 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:17:43,198 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:17:43,202 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:18:14,124 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:18:14,125 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:18:14,129 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:18:29,194 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:18:29,254 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:18:29,260 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:18:48,309 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:18:48,311 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:18:48,320 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:19:05,179 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-06 06:19:05,820 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:Gold:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/pom.xml.
+2023-05-06 06:19:07,073 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Gold/src/main/java
+2023-05-06 06:19:07,074 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Gold/src/main/resources
+2023-05-06 06:19:07,074 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Gold/src/main/resources
+2023-05-06 06:19:07,075 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Gold/src/test/java
+2023-05-06 06:19:07,538 [Worker-15: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Gold
+2023-05-06 06:19:07,542 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-05-06 06:19:07,923 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:19:07,962 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:19:07,972 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:19:07,973 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Gold
+2023-05-06 06:19:07,973 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Gold
+2023-05-06 06:19:16,181 [Worker-7: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Gold
+2023-05-06 06:19:16,404 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:19:16,406 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:19:16,410 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:19:16,411 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Gold
+2023-05-06 06:19:16,411 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Gold
+2023-05-06 06:19:57,776 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-06 06:20:04,518 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:20:04,552 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:20:04,561 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:20:47,181 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-06 06:20:47,765 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:Gold:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/pom.xml.
+2023-05-06 06:20:48,673 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Gold/src/main/java
+2023-05-06 06:20:48,673 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Gold/src/main/resources
+2023-05-06 06:20:48,675 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Gold/src/main/resources
+2023-05-06 06:20:48,677 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Gold/src/test/java
+2023-05-06 06:20:49,383 [Worker-0: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Gold
+2023-05-06 06:20:49,387 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-05-06 06:20:49,898 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:20:49,934 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:20:49,946 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:20:49,946 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Gold
+2023-05-06 06:20:49,949 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Gold
+2023-05-06 06:20:59,533 [Worker-2: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Gold
+2023-05-06 06:20:59,736 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:20:59,738 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:20:59,742 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:20:59,743 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Gold
+2023-05-06 06:20:59,743 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Gold
+2023-05-06 06:21:55,113 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-06 06:21:55,525 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:Gold:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/pom.xml.
+2023-05-06 06:21:56,277 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Gold/src/main/java
+2023-05-06 06:21:56,277 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Gold/src/main/resources
+2023-05-06 06:21:56,278 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Gold/src/main/resources
+2023-05-06 06:21:56,279 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Gold/src/test/java
+2023-05-06 06:21:56,676 [Worker-0: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Gold
+2023-05-06 06:21:56,681 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-05-06 06:21:57,018 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:21:57,048 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:21:57,053 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:21:57,054 [Worker-4: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Gold
+2023-05-06 06:21:57,054 [Worker-4: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Gold
+2023-05-06 06:22:14,693 [Worker-7: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Gold
+2023-05-06 06:22:14,900 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:22:14,902 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:22:14,905 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:22:14,906 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Gold
+2023-05-06 06:22:14,906 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Gold
+2023-05-06 06:23:12,398 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:23:12,399 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:23:12,404 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:24:33,249 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:24:33,257 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:24:33,262 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:24:34,297 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:24:34,297 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:24:34,302 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:25:19,999 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:25:20,051 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:25:20,062 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:25:29,089 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 06:25:29,138 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:25:29,144 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:29:05,160 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:29:05,162 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:29:05,165 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:29:55,867 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:29:55,869 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:29:55,872 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:30:11,108 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:30:11,109 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:30:11,112 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:31:41,502 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:31:41,503 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:31:41,507 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:33:28,964 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:33:28,966 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:33:28,969 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:34:03,218 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:34:03,219 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:34:03,223 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:36:22,677 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:36:22,678 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:36:22,687 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:37:19,936 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:37:19,938 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:37:19,940 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:37:26,815 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:37:26,816 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:37:26,822 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:37:52,668 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:37:52,669 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:37:52,672 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:38:51,646 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:38:51,648 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:38:51,651 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:39:17,995 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:39:17,995 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:39:17,999 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:43:15,333 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:43:15,334 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:43:15,338 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:44:48,735 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:44:48,737 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:44:48,740 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:45:31,874 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:45:31,876 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:45:31,879 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:45:54,614 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:45:54,616 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:45:54,619 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:46:04,719 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:46:04,720 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:46:04,723 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:46:19,827 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:46:19,827 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:46:19,831 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:47:11,759 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:47:11,761 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:47:11,764 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:47:19,886 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:47:19,886 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:47:19,889 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:47:26,344 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:47:26,345 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:47:26,348 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:47:34,605 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:47:34,606 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:47:34,608 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:48:04,012 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:48:04,012 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:48:04,016 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:48:53,275 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:48:53,276 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:48:53,279 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:49:14,574 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:49:14,576 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:49:14,579 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:50:33,048 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:50:33,050 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:50:33,053 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:50:58,829 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:50:58,829 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:50:58,832 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:51:24,141 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:51:24,141 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:51:24,144 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:51:36,248 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:51:36,249 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:51:36,253 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:51:50,581 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:51:50,583 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:51:50,586 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:52:03,621 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:52:03,621 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:52:03,625 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:52:18,590 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:52:18,590 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:52:18,594 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:52:25,904 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:52:25,905 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:52:25,907 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:52:34,292 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:52:34,293 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:52:34,296 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:53:06,231 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:53:06,233 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:53:06,236 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:53:11,839 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:53:11,839 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:53:11,843 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:53:18,546 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:53:18,547 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:53:18,555 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:54:33,801 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:54:33,803 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:54:33,806 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:54:47,805 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:54:47,805 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:54:47,808 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:55:14,817 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:55:14,817 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:55:14,820 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:56:09,454 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:56:09,455 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:56:09,459 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:56:23,273 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:56:23,273 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:56:23,277 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:56:35,033 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:56:35,033 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:56:35,036 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:56:48,028 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:56:48,029 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:56:48,032 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:57:06,144 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:57:06,145 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:57:06,148 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:57:21,396 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:57:21,396 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:57:21,399 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 06:58:43,466 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:58:43,468 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 06:58:43,471 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:00:22,043 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:00:22,045 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:00:22,048 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:00:31,300 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:00:31,301 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:00:31,304 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:00:41,271 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:00:41,272 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:00:41,275 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:00:47,974 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:00:47,974 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:00:47,976 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:00:52,836 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:00:52,837 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:00:52,840 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:07:47,061 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:07:47,062 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:07:47,065 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:08:00,311 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:08:00,311 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:08:00,314 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:08:06,450 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:08:06,450 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:08:06,453 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:09:37,197 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:09:37,199 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:09:37,202 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:09:53,379 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:09:53,379 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:09:53,383 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:10:15,196 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:10:15,197 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:10:15,200 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:10:35,303 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:10:35,303 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:10:35,307 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:10:49,337 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:10:49,338 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:10:49,342 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:11:16,251 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:11:16,251 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:11:16,254 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:11:49,295 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:11:49,296 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:11:49,299 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:12:04,564 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:12:04,565 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:12:04,568 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:20:36,900 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 07:20:36,967 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:20:36,970 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 07:23:31,990 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 07:23:32,022 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 07:23:32,025 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 18:14:19,157 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 18:14:19,258 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 18:14:19,264 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 18:14:56,580 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-06 18:14:56,842 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 18:14:56,848 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 22:13:36,806 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 22:13:36,807 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 22:13:36,813 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 22:52:19,022 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 22:52:19,024 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 22:52:19,028 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 22:53:29,745 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 22:53:29,747 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 22:53:29,750 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 22:55:22,954 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 22:55:22,954 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 22:55:22,956 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 22:57:04,659 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 22:57:04,661 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 22:57:04,664 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 23:07:28,767 [Worker-41: Launching Gold - GoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 23:07:28,774 [Worker-41: Launching Gold - GoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 23:07:28,777 [Worker-41: Launching Gold - GoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-06 23:14:41,816 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 23:14:41,820 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-06 23:14:41,827 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 00:21:24,441 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:21:24,443 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:21:24,446 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 00:21:34,284 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:21:34,285 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:21:34,288 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 00:26:26,386 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:26:26,386 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:26:26,388 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 00:26:44,820 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:26:44,821 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:26:44,826 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 00:26:50,252 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:26:50,253 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:26:50,256 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 00:30:51,305 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:30:51,306 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:30:51,309 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 00:47:34,729 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 00:47:35,019 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:47:35,026 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 00:48:24,261 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:48:24,263 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 00:48:24,267 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:21:31,317 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:21:31,326 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:21:31,335 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:21:36,521 [Worker-68: Launching Gold - GoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:21:36,522 [Worker-68: Launching Gold - GoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:21:36,527 [Worker-68: Launching Gold - GoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:22:31,361 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 02:22:31,459 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:22:31,463 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:23:32,966 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 02:23:33,046 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:23:33,050 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:26:25,487 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:26:25,490 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:26:25,495 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:26:35,181 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:26:35,185 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:26:35,187 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:39:04,495 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 02:39:04,556 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:39:04,560 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:40:48,231 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:40:48,231 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:40:48,234 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:41:44,015 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:41:44,015 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:41:44,018 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:42:36,553 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:42:36,555 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:42:36,558 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:43:31,197 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:43:31,198 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:43:31,200 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:44:15,347 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:44:15,347 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:44:15,349 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:45:02,353 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:45:02,353 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:45:02,356 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:45:24,361 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:45:24,362 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:45:24,365 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:45:42,002 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:45:42,002 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:45:42,005 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:45:54,052 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:45:54,052 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:45:54,054 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:51:45,879 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 02:51:45,884 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:51:45,887 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:54:33,469 [Worker-81: Launching Gold - GoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 02:54:33,628 [Worker-81: Launching Gold - GoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:54:33,632 [Worker-81: Launching Gold - GoldApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 02:54:59,596 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:54:59,596 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 02:54:59,599 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:02:20,207 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:02:20,211 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:02:20,213 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:02:53,589 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:02:53,593 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:02:53,596 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:04:24,163 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:04:24,172 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:04:24,175 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:06:03,252 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:06:03,290 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:06:03,292 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:07:07,931 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:07:07,936 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:07:07,940 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:07:50,118 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:07:50,123 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:07:50,125 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:09:11,434 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:09:11,441 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:09:11,444 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:12:40,671 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:12:40,677 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:12:40,679 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:13:11,749 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:13:11,754 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:13:11,758 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:15:40,734 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:15:40,740 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:15:40,744 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 03:52:45,291 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-07 03:52:45,357 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 03:52:45,371 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 04:03:02,105 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 04:03:02,107 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 04:03:02,111 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 04:03:41,845 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 04:03:41,847 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 04:03:41,852 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources
+2023-05-07 04:05:04,015 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 04:05:04,015 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-07 04:05:04,018 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/JavaSpring/NinjaGoldGame/Gold/src/test/resources

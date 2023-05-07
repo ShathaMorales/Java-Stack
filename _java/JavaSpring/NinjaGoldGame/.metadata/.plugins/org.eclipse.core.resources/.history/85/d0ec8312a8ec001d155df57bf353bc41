@@ -1,0 +1,29 @@
+package com.codingdojo.ninjagold;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import jakarta.servlet.http.HttpSession;
+
+@Controller
+public class Gold {
+
+	@RequestMapping("/activities")
+	public String activities() {
+		return "activities.jsp";
+	}
+	
+	
+	@RequestMapping("/")
+	public String index(HttpSession session) {
+		Integer count = 0;
+			session.setAttribute("count", count);
+			
+			ArrayList<String> activities = new ArrayList<String>();
+			count = (Integer) session.getAttribute("count");
+			count++;
+			session.setAttribute("count", 0);
+
+		return "index.jsp";
+	}
+}

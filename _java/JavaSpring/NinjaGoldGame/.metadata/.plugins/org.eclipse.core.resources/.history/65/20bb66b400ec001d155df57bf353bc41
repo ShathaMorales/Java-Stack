@@ -1,0 +1,12 @@
+package com.codingdojo.ninjagold;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class Gold {
+
+	@RequestMapping("/")
+	public String index() {
+		return "index.jsp";
+	}
+}
