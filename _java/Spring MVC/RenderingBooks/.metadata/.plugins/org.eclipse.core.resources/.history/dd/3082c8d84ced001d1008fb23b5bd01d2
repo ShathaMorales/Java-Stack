@@ -1,0 +1,17 @@
+package com.codingdojo.renderingbooks.controllers;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class BookController {
+
+	
+	@RequestMapping("/")
+	public String index() {
+		return "index.jsp";
+	}
+	
+	
+	@RequestMapping(/books/3)
+	public String 
+}

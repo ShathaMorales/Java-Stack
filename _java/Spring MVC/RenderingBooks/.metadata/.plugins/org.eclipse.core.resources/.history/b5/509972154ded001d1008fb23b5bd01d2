@@ -1,0 +1,25 @@
+package com.codingdojo.renderingbooks.controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.codingdojo.renderingbooks.services.BookService;
+
+@Controller
+public class BookController {
+
+	@Autowired
+	BookService bookservice;
+	
+	@RequestMapping("/")
+	public String home(Model model) {
+		return "redirect:/books";
+	}
+	
+	@RequestMapping("/books")
+	public String index()
+	
+	@RequestMapping(/books/3)
+	public String 
+}
