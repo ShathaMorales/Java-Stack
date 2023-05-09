@@ -1,0 +1,47 @@
+package com.codingdojo.savetravels.services;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.stereotype.Service;
+
+import com.codingdojo.savetravels.models.Expense;
+
+@Service
+public class expenseService {
+
+    // adding the burger repository as a dependency
+    private final ExpenseRepository expenseRepository;
+    
+    public ExpenseService(ExpenseRepository expenseRepository) {
+        this.expenseRepository = expenseRepository;
+    }
+    
+    // returns all the burgers
+    public List<Expense> allExpenses() {
+        return expenseRepository.findAll();
+    }
+    // adds a burger
+    public Expense addBurger(Expense expense) {
+        return expenseRepository.save(expense);
+    }
+    
+    // retrieves a burger
+    public Expense findBurger(Long id) {
+        Optional<Expense> optionalExpense = expenseRepository.findById(id);
+        if(optionalExpense.isPresent()) {
+            return optionalExpense.get();
+        } else {
+            return null;
+        }
+    }
+    
+    // updates a burger
+    public Expense updateExpense(Expense xpense) {
+        return expenseRepository.save(expense);
+    }
+    
+    public void deleteExpense(Long id) {
+    	expenseRepository.deleteById(id);
+    }
+}

@@ -1,0 +1,19 @@
+package com.codingdojo.savetravels.repositories;
+
+import java.awt.print.Book;
+import java.util.List;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface travelRepository extends CrudRepository{
+    // this method retrieves all the books from the database
+    List<Expense> findAll();
+    // this method finds books with descriptions containing the search string
+    List<Expense> findByDescriptionContaining(String search);
+    // this method counts how many titles contain a certain string
+    Long countByTitleContaining(String search);
+    // this method deletes a book that starts with a specific title
+    Long deleteByTitleStartingWith(String search);
+}
+	
+}

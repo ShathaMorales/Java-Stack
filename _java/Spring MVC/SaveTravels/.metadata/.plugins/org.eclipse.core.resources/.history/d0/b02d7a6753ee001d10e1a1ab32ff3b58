@@ -1,0 +1,40 @@
+package com.codingdojo.savetravels.services;
+
+@Service
+public class expenseService {
+
+    // adding the burger repository as a dependency
+    private final ExpenseRepository expenseRepository;
+    
+    public ExpenseRepository(ExpenseRepository expenseRepository) {
+        this.burgerRepository = burgerRepository;
+    }
+    
+    // returns all the burgers
+    public List<Expense> allExpenses() {
+        return expenseRepository.findAll();
+    }
+    // adds a burger
+    public Expense addBurger(Expense expense) {
+        return expenseRepository.save(expense);
+    }
+    
+    // retrieves a burger
+    public Expense findBurger(Long id) {
+        Optional<Expense> optionalExpense = expenseRepository.findById(id);
+        if(optionalExpense.isPresent()) {
+            return optionalExpense.get();
+        } else {
+            return null;
+        }
+    }
+    
+    // updates a burger
+    public Expense updateExpense(Expense xpense) {
+        return expenseRepository.save(expense);
+    }
+    
+    public void deleteExpense(Long id) {
+    	expenseRepository.deleteById(id);
+    }
+}
