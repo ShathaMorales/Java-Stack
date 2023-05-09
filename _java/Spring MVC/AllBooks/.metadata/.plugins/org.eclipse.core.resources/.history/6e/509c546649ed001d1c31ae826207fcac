@@ -1,0 +1,5 @@
+package com.codingdojo.renderingbooks.services;
+
+public class BookService {
+
+}

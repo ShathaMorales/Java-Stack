@@ -1,0 +1,5 @@
+package com.codingdojo.renderingbooks.controllers;
+
+public class BookController {
+
+}

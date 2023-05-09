@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/SpringMVC/AllBooks/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2931586595.index
+/RenderingBooks/src/main/java
+/Users/shathamorales/Desktop/Coding-Dojo/java_stack/_java/SpringMVC/RenderingBooks/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2931586595.index
+/RenderingBooks/src/main/java
