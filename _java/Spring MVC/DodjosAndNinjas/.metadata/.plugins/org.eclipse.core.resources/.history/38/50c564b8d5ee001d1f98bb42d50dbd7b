@@ -1,0 +1,43 @@
+package com.codingdojo.dojosandninjas.services;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class AppService {
+	// adding the expense repository as a dependency
+    private final DojoRepository dojoRepository;
+    
+    public DojoService(DojoRepository dojoRepository) {
+        this.expenseRepository = dojoRepository;
+    }
+    
+    // returns all the expenses
+    public List<Dojo> allDojos() {
+        return dojoRepository.findAll();
+    }
+    // adds an expense
+    public Expense addExpense(Expense expense) {
+        return dojoRepository.save(expense);
+    }
+    
+    // retrieves an expense
+    public Dojo findDojo(Long id) {
+        Optional<Dojo> optionalDojo = dojoRepository.findById(id);
+        if(optionalDojo.isPresent()) {
+            return optionalDojo.get();
+        } else {
+            return null;
+        }
+    }
+    
+    // updates a dojo
+    public Dojo updateDojo(Dojo dojo) {
+        return dojoRepository.save(dojo);
+    }
+    
+    //deletes a dojo
+    public void deleteDojo(Long id) {
+    	dojoRepository.deleteById(id);
+    }
+
+}

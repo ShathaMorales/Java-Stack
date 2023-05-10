@@ -1,0 +1,86 @@
+package com.codingdojo.dojosandninjas.services;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.stereotype.Service;
+
+import com.codingdojo.dojosandninjas.models.Dojo;
+import com.codingdojo.dojosandninjas.models.Ninja;
+import com.codingdojo.dojosandninjas.repositories.DojoRepository;
+import com.codingdojo.dojosandninjas.repositories.NinjaRepository;
+
+@Service
+public class AppService {
+	// adding the dojo repository as a dependency
+    private final DojoRepository dojoRepository;
+	// adding the ninja repository as a dependency
+    private final NinjaRepository ninjaRepository;
+   
+    public AppService(DojoRepository dojoRepository, NinjaRepository ninjaRepository) {
+        this.dojoRepository = dojoRepository;
+        this.ninjaRepository = ninjaRepository;
+    }
+    
+    
+    // returns all the dojos
+    public List<Dojo> allDojos() {
+        return dojoRepository.findAll();
+    }
+    
+    // returns all the ninjas
+    public List<Ninja> allNinjas() {
+        return ninjaRepository.findAll();
+    }
+    
+    // adds a dojo
+    public Dojo addDojo(Dojo dojo) {
+        return dojoRepository.save(dojo);
+    }
+    
+    // adds a ninja
+    public Ninja addNinja(Ninja ninja) {
+        return ninjaRepository.save(ninja);
+    }
+    
+    // retrieves a dojo
+    public Dojo findDojo(Long id) {
+        Optional<Dojo> optionalDojo = dojoRepository.findById(id);
+        if(optionalDojo.isPresent()) {
+            return optionalDojo.get();
+        } else {
+            return null;
+        }
+    }
+    
+    // retrieves a ninja
+    public Ninja findNinja(Long id) {
+        Optional<Ninja> optionalNinja = ninjaRepository.findById(id);
+        if(optionalNinja.isPresent()) {
+            return optionalNinja.get();
+        } else {
+            return null;
+        }
+    }
+    
+    // updates a dojo
+    public Dojo updateDojo(Dojo dojo) {
+        return dojoRepository.save(dojo);
+    }
+    
+    // updates a ninja
+    public Ninja updateNinja(Ninja ninja) {
+        return ninjaRepository.save(ninja);
+    } 
+    
+    //deletes a dojo
+    public void deleteDojo(Long id) {
+    	dojoRepository.deleteById(id);
+    }
+
+    //deletes a ninja
+    public void deleteNinja(Ninja id) {
+    	ninjaRepository.deleteById(id);
+    }
+    
+}

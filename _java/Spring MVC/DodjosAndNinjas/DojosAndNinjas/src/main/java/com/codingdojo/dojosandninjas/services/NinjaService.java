@@ -1,0 +1,51 @@
+package com.codingdojo.dojosandninjas.services;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.stereotype.Service;
+
+import com.codingdojo.dojosandninjas.models.Ninja;
+import com.codingdojo.dojosandninjas.repositories.NinjaRepository;
+
+@Service
+public class NinjaService {
+	// adding the ninja repository as a dependency
+    private final NinjaRepository ninjaRepository;
+   
+    public NinjaService(NinjaRepository ninjaRepository) {
+        this.ninjaRepository = ninjaRepository;
+    }
+    
+    // returns all the ninjas
+    public List<Ninja> allNinjas() {
+        return ninjaRepository.findAll();
+    }
+    
+    // adds a ninja
+    public Ninja addNinja(Ninja ninja) {
+        return ninjaRepository.save(ninja);
+    }
+    
+    // retrieves a ninja
+    public Ninja findNinja(Long id) {
+        Optional<Ninja> optionalNinja = ninjaRepository.findById(id);
+        if(optionalNinja.isPresent()) {
+            return optionalNinja.get();
+        } else {
+            return null;
+        }
+    }
+    
+    // updates a ninja
+    public Ninja updateNinja(Ninja ninja) {
+        return ninjaRepository.save(ninja);
+    } 
+
+    //deletes a ninja
+    public void deleteNinja(Long id) {
+    	ninjaRepository.deleteById(id);
+    }
+   
+
+}

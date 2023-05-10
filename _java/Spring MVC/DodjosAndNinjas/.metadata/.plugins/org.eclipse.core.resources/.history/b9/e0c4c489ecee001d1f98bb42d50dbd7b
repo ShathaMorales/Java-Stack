@@ -1,0 +1,48 @@
+package com.codingdojo.dojosandninjas.controllers;
+
+import org.springframework.validation.BindingResult;
+
+//import java.util.List;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.codingdojo.dojosandninjas.models.Dojo;
+import com.codingdojo.dojosandninjas.services.DojoService;
+
+import jakarta.validation.Valid;
+
+public class AppController {
+    private final DojoService appService;
+    
+    public AppController (DojoService dojoService) {
+        this.dojoService = dojoService;
+    }
+	
+    @RequestMapping("/")
+	public String home() {
+		return "redirect:/dojos/new";
+	}
+
+    @GetMapping("/dojos/new")
+    public String newDojo(@ModelAttribute("dojo") Dojo dojo) {
+        return "dojo.jsp";
+    }
+    
+    @PostMapping("/dojos/new")
+    public String addDojo(@Valid @ModelAttribute("dojo") Dojo dojo, 
+    		BindingResult result) {
+    	if (result.hasErrors()) {
+        	return "dojo.jsp";
+        } else {
+        	appService.addDojo(dojo);
+        	Long dojoId = dojo.getId();
+            return "redirect:/dojos/"+dojoId;
+        }
+    }
+    
+    
+    
+}

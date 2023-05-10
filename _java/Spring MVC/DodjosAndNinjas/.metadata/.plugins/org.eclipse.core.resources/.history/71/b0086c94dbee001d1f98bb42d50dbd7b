@@ -1,0 +1,31 @@
+package com.codingdojo.dojosandninjas.controllers;
+
+import java.util.List;
+
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.codingdojo.dojosandninjas.models.Dojo;
+import com.codingdojo.dojosandninjas.services.AppService;
+
+public class AppController {
+    private final AppService appService;
+    
+    public AppController (AppService appService) {
+        this.appService = appService;
+    }  
+	
+    @RequestMapping("/")
+	public String home() {
+		return "redirect:/dojos/new";
+	}
+
+    @GetMapping("/dojos/new")
+    public String newDojo(@ModelAttribute("dojo") Dojo dojo, Model model) {
+             return "dojos.jsp";
+        }
+    
+    
+}

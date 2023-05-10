@@ -1,0 +1,43 @@
+package com.codingdojo.dojosandninjas.services;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class AppService {
+	// adding the expense repository as a dependency
+    private final ExpenseRepository expenseRepository;
+    
+    public ExpenseService(ExpenseRepository expenseRepository) {
+        this.expenseRepository = expenseRepository;
+    }
+    
+    // returns all the expenses
+    public List<Expense> allExpenses() {
+        return expenseRepository.findAll();
+    }
+    // adds an expense
+    public Expense addExpense(Expense expense) {
+        return expenseRepository.save(expense);
+    }
+    
+    // retrieves an expense
+    public Expense findExpense(Long id) {
+        Optional<Expense> optionalExpense = expenseRepository.findById(id);
+        if(optionalExpense.isPresent()) {
+            return optionalExpense.get();
+        } else {
+            return null;
+        }
+    }
+    
+    // updates an expense
+    public Expense updateExpense(Expense expense) {
+        return expenseRepository.save(expense);
+    }
+    
+    //deletes an expense
+    public void deleteExpense(Long id) {
+    	expenseRepository.deleteById(id);
+    }
+
+}
