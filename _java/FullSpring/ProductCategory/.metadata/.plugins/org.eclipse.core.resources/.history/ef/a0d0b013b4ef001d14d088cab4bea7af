@@ -1,0 +1,56 @@
+package com.codingdojo.productcategory.services;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.codingdojo.productcategory.models.Category;
+import com.codingdojo.productcategory.models.Product;
+import com.codingdojo.productcategory.repositories.ProductRepository;
+
+public class ProductService {
+	
+	// adding the product repository as a dependency
+    private final ProductRepository productRepository;
+   
+    public ProductService(ProductRepository productRepository) {
+    	super();
+        this.productRepository = productRepository;
+    }
+    
+    // returns all the products
+    public List<Product> allProduct() {
+        return productRepository.findAll();
+    }
+    
+    // creates a product
+    public Product createProduct(Product product) {
+        return productRepository.save(product);
+    }
+    
+    // retrieves a product
+    public Product findProduct(Long id) {
+        Optional<Product> optionalProduct = productRepository.findById(id);
+        if(optionalProduct.isPresent()) {
+            return optionalProduct.get();
+        } else {
+            return null;
+        }
+    }
+    
+    // retrieves a list of products not in a particular category
+    public List<Product> productNotContainsCategory(Category category){
+    	return productRepository.findByCatergoiesNotContains(category);
+    }
+    
+    // updates a product
+    public Product updateProduct(Product product) {
+        return productRepository.save(product);
+    }
+    
+    // deletes a product
+    public void deleteProduct(Long id) {
+    	productRepository.deleteById(id);
+    }
+	
+	
+}

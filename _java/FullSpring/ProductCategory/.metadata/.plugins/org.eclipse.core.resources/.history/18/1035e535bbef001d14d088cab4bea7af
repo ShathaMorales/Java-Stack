@@ -1,0 +1,77 @@
+package com.codingdojo.productcategory.controllers;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+@Controller
+public class MainController {
+    private final ProductService productService;
+    private final CategoryService categoryService;
+    
+    public MainController (ProductService productService, CategoryService categoryService) {
+        this.productService = productService;
+        this.categoryService= categoryService;
+    }
+	
+    // displays all categories and all products on home page
+    @RequestMapping("/")
+	public String home(Model model) {
+		model.addAttribute("product", productService.allProducts());
+		model.addAttribute("category", categoryService.allCategories());
+		return "index.jsp";
+	}
+
+    // renders the new product form
+    @GetMapping("/products/new")
+    public String showProduct(@ModelAttribute("product") Product product) {
+        return "product.jsp";
+    }
+    
+    // adds a product
+    @PostMapping("/products/new")
+    public String addProduct(@Valid @ModelAttribute("product") Product product, 
+    		BindingResult result) {
+    	if (result.hasErrors()) {
+        	return "product.jsp";
+        } else {
+        	productService.createProduct(product);
+            return "redirect:/";
+        }
+    }
+    
+    // renders the new category form
+    @GetMapping("/categories/new")
+    public String showCategory(@ModelAttribute("category") Category category) {
+        return "category.jsp";
+    }
+    
+	// adds a category
+    @PostMapping("/categories/new")
+    public String addCategory(@Valid @ModelAttribute("category") Category category, BindingResult result) {
+        if (result.hasErrors()) {
+            return "category.jsp";
+        } else {
+        	categoryService.createCategory(category);
+            return "redirect:/";
+        }
+    }
+    
+    
+    // adds product to category
+    @GetMapping("/products/{id}")
+    public String addProductToCategory(@PathVariable("id") Long id, Model model) {
+    	Product product = ProductService.findProduct(id);
+    	List<Ninja> allDojoNinjas = dojo.getNinjas();
+        model.addAttribute("dojo", dojo);
+        model.addAttribute("allDojoNinjas", allDojoNinjas);
+        return "main.jsp";
+    }
+
+    
+    @RequestMapping("categories/new")
+    public String showCategory(@ModelAttribute("ninja") Ninja ninja, Model model) {
+		List<Dojo> allDojos = categoryService.allDojos();
+		model.addAttribute("dojos", allDojos);
+        return "category.jsp";
+    }
+}

@@ -1,0 +1,119 @@
+package com.codingdojo.productcategory.controllers;
+
+import java.util.List;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import com.codingdojo.productcategory.models.Category;
+import com.codingdojo.productcategory.models.Product;
+import com.codingdojo.productcategory.services.CategoryService;
+import com.codingdojo.productcategory.services.ProductService;
+
+import jakarta.validation.Valid;
+
+@Controller
+public class MainController {
+    private final ProductService productService;
+    private final CategoryService categoryService;
+    
+    public MainController (ProductService productService, CategoryService categoryService) {
+        this.productService = productService;
+        this.categoryService= categoryService;
+    }
+	
+    // displays all categories and all products on home page
+    @RequestMapping("/")
+	public String home(Model model) {
+		model.addAttribute("products", productService.allProducts());
+		model.addAttribute("categories", categoryService.allCategories());
+		System.out.println(productService.allProducts());
+		return "index.jsp";
+	}
+
+    // renders the new product form
+    @GetMapping("/products/new")
+    public String showProduct(@ModelAttribute("product") Product product) {
+        return "product.jsp";
+    }
+    
+    // adds a product
+    @PostMapping("/products/new")
+    public String addProduct(@Valid @ModelAttribute("product") Product product, 
+    		BindingResult result) {
+    	if (result.hasErrors()) {
+        	return "product.jsp";
+        } else {
+        	productService.createProduct(product);
+            return "redirect:/";
+        }
+    }
+    
+    // renders the new category form
+    @GetMapping("/categories/new")
+    public String showCategory(@ModelAttribute("category") Category category) {
+        return "category.jsp";
+    }
+    
+	// adds a category
+    @PostMapping("/categories/new")
+    public String addCategory(@Valid @ModelAttribute("category") Category category, BindingResult result) {
+        if (result.hasErrors()) {
+            return "category.jsp";
+        } else {
+        	categoryService.createCategory(category);
+            return "redirect:/";
+        }
+    }   
+    
+    // renders the product display page
+    @GetMapping("/products/{id}")
+    public String renderProductToCategoryForm(@PathVariable("id") Long id, Model model) {
+    	Product product = productService.findProduct(id);
+        model.addAttribute("products", product);
+        model.addAttribute("categories", categoryService.categoriesNotContainsProducts(product));
+        return "productdisplay.jsp";
+    }
+
+    // adds product to categories it doesn't already belong to
+    @PostMapping("/products/{id}")
+    public String addProductToCategory(@PathVariable("id") Long id, @RequestParam("category") Long catId, Model model) {
+		Category category = categoryService.findCategory(catId);
+		Product product = productService.findProduct(id);
+		List<Category> cat = product.getCategories();
+		cat.add(category);
+		product.setCategories(cat);
+		productService.updateProduct(product);
+        return "reidrect:/";
+    }
+    
+    // renders the category display page
+    @GetMapping("/categories/{id}")
+    public String renderCategoryToProductForm(@PathVariable("id") Long id, Model model) {
+    	Category category = categoryService.findCategory(id);
+        model.addAttribute("categories", category);
+        model.addAttribute("products", productService.productNotContainsCategory(category));
+        return "categorydisplay.jsp";
+    }
+    
+    // adds products to categories they don't already belong to
+    @PostMapping("/categories/{id}")
+    public String addCategoryToProduct(@PathVariable("id") Long id, @RequestParam("product") Long proId, Model model) {
+    	Category category = categoryService.findCategory(id);
+		Product product = productService.findProduct(proId);		
+		List<Product> pro = category.getProducts();
+		pro.add(product);
+		category.setProducts(pro);
+		categoryService.updateCategory(category);
+		return "redirect:/";
+
+    }
+    
+}

@@ -1,0 +1,27 @@
+package com.codingdojo.productcategory.repositories;
+
+import java.util.List;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import com.codingdojo.productcategory.models.Category;
+import com.codingdojo.productcategory.models.Product;
+
+@Repository
+public interface ProductRepository extends CrudRepository <Product, Long> {
+	
+    // this method retrieves all the products from the database
+	List<Product> findAll();
+    // Retrieves a list of all products for a particular category
+    List<Product> findAllByCategories(Category category);    
+    // Retrieves a list of products that do not belong to a particular category
+    List<Product> findByCategoriesNotContains(Category category);
+    
+//    // this method finds products with descriptions containing the search string
+//    List<Product> findByDescriptionContaining(String search);
+//    // this method counts how many products contain a certain string
+//    Long countByTitleContaining(String search);
+//    // this method deletes a products that starts with a specific name
+//    Long deleteByTitleStartingWith(String search);	
+}

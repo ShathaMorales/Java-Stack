@@ -1,0 +1,5 @@
+package com.codingdojo.productcategory.repositories;
+
+public interface CategoryRepository {
+
+}

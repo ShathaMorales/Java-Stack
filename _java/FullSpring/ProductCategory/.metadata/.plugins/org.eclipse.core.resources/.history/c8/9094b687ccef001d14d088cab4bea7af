@@ -1,0 +1,19 @@
+package com.codingdojo.productcategory;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@SpringBootApplication
+public class ProductCategoryApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProductCategoryApplication.class, args);
+	}
+	@Configuration
+	@ComponentScan("com.codingdojo.productcategory.services")
+	public class AppConfig {
+	    // Configuration code
+	} 
+}

@@ -1,0 +1,46 @@
+package com.codingdojo.productcategory.services;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.codingdojo.productcategory.models.Category;
+import com.codingdojo.productcategory.repositories.CategoryRepository;
+
+public class CategoryService {
+	// adding the category repository as a dependency
+    private final CategoryRepository categoryRepository;
+   
+    public CategoryService(CategoryRepository categoryRepository) {
+        this.categoryRepository = categoryRepository;
+    }
+    
+    // returns all the categories
+    public List<Category> allCategory() {
+        return categoryRepository.findAll();
+    }
+    
+    // adds a category
+    public Category addCategory(Category category) {
+        return categoryRepository.save(category);
+    }
+    
+    // retrieves a category
+    public Category findCategory(Long id) {
+        Optional<Category> optionalCategory = categoryRepository.findById(id);
+        if(optionalCategory.isPresent()) {
+            return optionalCategory.get();
+        } else {
+            return null;
+        }
+    }
+    
+    // updates a category
+    public Category updateCategory(Category category) {
+        return categoryRepository.save(category);
+    }
+    
+    // deletes a category
+    public void deleteCategory(Long id) {
+    	categoryRepository.deleteById(id);
+    }
+}
