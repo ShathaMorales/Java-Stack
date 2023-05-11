@@ -59,14 +59,14 @@ public class AppController {
         return "main.jsp";
     }
     
-	@RequestMapping("ninjas/new")
+    @RequestMapping("ninjas/new")
     public String Ninja(@ModelAttribute("ninja") Ninja ninja, Model model) {
 		List<Dojo> allDojos = dojoService.allDojos();
 		model.addAttribute("dojos", allDojos);
         return "ninja.jsp";
     }
 	
-	@PostMapping("/ninjas/new")
+    @PostMapping("/ninjas/new")
     public String addNinja(@Valid @ModelAttribute("ninja") Ninja ninja, BindingResult result) {
         if (result.hasErrors()) {
             return "ninja.jsp";
