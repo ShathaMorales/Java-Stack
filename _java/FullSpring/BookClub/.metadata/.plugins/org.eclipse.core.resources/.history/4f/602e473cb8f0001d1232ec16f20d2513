@@ -1,0 +1,7 @@
+package com.codingdojo.loginregistration.repositories;
+
+
+
+public interface BookRepository extends CrudRepository<Book, Long>{
+
+}
