@@ -1,0 +1,52 @@
+package com.codingdojo.loginregistration.controllers;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.codingdojo.loginregistration.models.Book;
+import com.codingdojo.loginregistration.services.BookService;
+import com.codingdojo.loginregistration.services.UserService;
+
+import jakarta.servlet.http.HttpSession;
+
+@Controller
+@RequestMapping("/books")
+public class BookController {
+	
+	@Autowired
+	BookService bookService;
+	
+	@Autowired
+	UserService userService;
+	
+	@GetMapping("/")
+	public String displayBooks(Model model, HttpSession session) {
+		if (session.getAttribute("user") != null) {
+			List <Book> books = bookService.allBooks();
+			model.addAttribute("books", books);
+			model.addAttribute("user", session.getAttribute("user_id"));
+			return "home.jsp";
+		} else {
+			return "redirect:/";
+		}
+	}
+	
+	
+	@GetMapping("/new")
+	public String newBook(@ModelAttribute("book") Book book, HttpSession session, Model model) {
+		if (session.getAttribute("user") != null) {
+			model.addAttribute("user", session.getAttribute("user_id"));
+			return "BookForm.jsp";
+		} else {
+			return "redirect:/";
+		}
+		
+	}
+	
+}
