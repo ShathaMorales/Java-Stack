@@ -31,7 +31,7 @@
 	</table>
 	</div>
 	
-	<div class = 'card p-5'>
+	<div class='card  p-5'>
 	<h1>New Burger</h1>
 	<form:form action="/burger" method="post" modelAttribute="burger">
 	    <p>

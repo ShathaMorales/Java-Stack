@@ -1,8 +1,6 @@
-INDEX VERSION 1.4+/Users/shathamorales/Desktop/LoginRegistration/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-2770692134.index
-786571648.index
-1476183010.index
-3042934856.index
-3174720067.index
-818056822.index
-977680230.index
+INDEX VERSION 1.4+/Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/LoginRegistration/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2661615394.index
+3267753213.index
+4205883683.index
+1107851987.index
+3123688418.index
