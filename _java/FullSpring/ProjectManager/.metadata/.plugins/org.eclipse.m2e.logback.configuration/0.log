@@ -1,0 +1,990 @@
+2023-05-13 01:53:19,184 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-13 01:53:30,129 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.loginregistration:LoginRegistration:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/pom.xml.
+2023-05-13 01:53:40,100 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 01:53:40,461 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 01:53:40,525 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 01:53:44,579 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.loginregistration:LoginRegistration:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/pom.xml.
+2023-05-13 01:53:53,166 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 01:53:53,168 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 01:53:53,176 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 01:58:48,721 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 01:58:49,201 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 01:58:49,215 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 02:23:47,063 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:23:47,066 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:23:47,071 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 02:25:08,990 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:25:08,992 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:25:08,999 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 02:25:33,507 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-13 02:25:34,196 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.loginregistration:LoginRegistration:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/pom.xml.
+2023-05-13 02:25:35,766 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegistration/src/main/java
+2023-05-13 02:25:35,768 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginRegistration/src/main/resources
+2023-05-13 02:25:35,769 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginRegistration/src/main/resources
+2023-05-13 02:25:35,771 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegistration/src/test/java
+2023-05-13 02:25:36,438 [Worker-12: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2023-05-13 02:25:36,445 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-05-13 02:25:37,100 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 02:25:37,201 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:25:37,209 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 02:25:37,210 [Worker-18: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2023-05-13 02:25:37,214 [Worker-18: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2023-05-13 02:26:48,929 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-13 02:26:49,624 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.loginregistration:LoginRegistration:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/pom.xml.
+2023-05-13 02:26:51,385 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegistration/src/main/java
+2023-05-13 02:26:51,385 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginRegistration/src/main/resources
+2023-05-13 02:26:51,385 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginRegistration/src/main/resources
+2023-05-13 02:26:51,386 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegistration/src/test/java
+2023-05-13 02:26:52,252 [Worker-24: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2023-05-13 02:26:52,256 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2023-05-13 02:26:52,629 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 02:26:52,716 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:26:52,721 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 02:26:52,722 [Worker-18: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2023-05-13 02:26:52,722 [Worker-18: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2023-05-13 02:28:26,774 [Worker-23: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2023-05-13 02:28:27,082 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 02:28:27,086 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:28:27,098 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 02:28:27,099 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2023-05-13 02:28:27,099 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2023-05-13 02:32:05,573 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-13 02:32:13,147 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 02:32:13,207 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:32:13,218 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 02:34:46,102 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 02:34:46,128 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:34:46,133 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 02:37:22,131 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 02:37:22,335 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:37:22,351 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 02:38:06,348 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 02:38:06,467 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 02:38:06,473 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:24:12,442 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:24:12,534 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:24:12,543 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:25:00,144 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:25:00,220 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:25:00,226 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:29:07,332 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:29:07,418 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:29:07,425 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:29:30,256 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:29:30,364 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:29:30,372 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:29:38,172 [Worker-38: Launching LoginRegistration - LoginRegistrationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:29:38,250 [Worker-38: Launching LoginRegistration - LoginRegistrationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:29:38,280 [Worker-38: Launching LoginRegistration - LoginRegistrationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:32:05,846 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:32:05,863 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:32:05,867 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:37:16,118 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:37:16,323 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:37:16,327 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:37:55,998 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:37:55,999 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:37:56,004 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:38:41,973 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:38:41,975 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:38:41,979 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:41:50,672 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:41:50,675 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:41:50,685 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:48:56,616 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:48:56,714 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:48:56,718 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:49:55,771 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:49:55,895 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:49:55,902 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:50:15,897 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:50:16,070 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:50:16,075 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:50:36,772 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:50:36,782 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:50:36,787 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:51:03,418 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:51:03,426 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:51:03,430 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:52:07,293 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:52:07,302 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:52:07,308 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:52:28,893 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:52:28,902 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:52:28,906 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:52:49,821 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:52:49,830 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:52:49,835 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:53:02,755 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:53:02,757 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:53:02,762 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:54:42,082 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:54:42,090 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:54:42,093 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:55:05,299 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:55:05,299 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:55:05,303 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:55:17,268 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:55:17,270 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:55:17,273 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:55:31,590 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:55:31,591 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:55:31,594 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:55:39,738 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:55:39,739 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:55:39,742 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 03:56:09,267 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 03:56:09,276 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 03:56:09,279 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/LoginRegistration/LoginRegistration/src/test/resources
+2023-05-13 04:17:54,108 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-13 04:18:29,568 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:18:29,613 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:18:29,620 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:21:12,205 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:21:12,207 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:21:12,213 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:21:27,257 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:21:27,258 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:21:27,264 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:21:35,756 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-13 04:21:36,441 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.loginregistration:LoginRegistration:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/pom.xml.
+2023-05-13 04:21:37,980 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegistration/src/main/java
+2023-05-13 04:21:37,980 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginRegistration/src/main/resources
+2023-05-13 04:21:37,981 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginRegistration/src/main/resources
+2023-05-13 04:21:37,982 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegistration/src/test/java
+2023-05-13 04:21:38,881 [Worker-4: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2023-05-13 04:21:38,910 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2023-05-13 04:21:39,436 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:21:39,470 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:21:39,475 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:21:39,476 [Worker-19: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2023-05-13 04:21:39,481 [Worker-19: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2023-05-13 04:21:55,432 [Worker-18: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2023-05-13 04:21:55,771 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:21:55,775 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:21:55,780 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:21:55,780 [Worker-18: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2023-05-13 04:21:55,780 [Worker-18: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2023-05-13 04:22:55,042 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:22:55,045 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:22:55,050 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:23:35,187 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:23:35,189 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:23:35,198 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:24:07,451 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:24:07,453 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:24:07,456 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:24:41,020 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:24:41,021 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:24:41,025 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:25:27,166 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:25:27,168 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:25:27,171 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:27:04,601 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:27:04,603 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:27:04,606 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:27:14,110 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:27:14,110 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:27:14,115 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:27:34,820 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:27:34,822 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:27:34,829 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:28:40,289 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:28:40,308 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:28:40,312 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:29:20,136 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:29:20,152 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:29:20,159 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:35:08,070 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:35:08,072 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:35:08,089 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:36:40,666 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:36:40,871 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:36:40,877 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:36:59,891 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:36:59,987 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:36:59,998 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:37:12,005 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:37:12,019 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:37:12,024 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:40:44,045 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:40:44,064 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:40:44,067 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:44:25,749 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:44:25,827 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:44:25,833 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:46:14,836 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:46:14,871 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:46:14,875 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:47:08,740 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:47:08,805 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:47:08,812 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:55:39,698 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:55:39,750 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:55:39,755 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:56:17,399 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:56:17,500 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:56:17,509 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:57:30,391 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:57:30,556 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:57:30,564 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 04:59:06,555 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 04:59:06,614 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 04:59:06,619 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 05:00:53,463 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 05:00:53,497 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 05:00:53,501 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 05:02:04,422 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 05:02:04,482 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 05:02:04,487 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-13 05:02:18,455 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 05:02:18,535 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 05:02:18,541 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:44:17,811 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:44:18,029 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:44:18,034 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:48:18,194 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:48:18,272 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:48:18,277 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:48:28,526 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:48:28,692 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:48:28,697 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:49:19,470 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:49:19,753 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:49:19,759 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:49:34,710 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:49:34,723 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:49:34,728 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:51:17,697 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:51:17,708 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:51:17,712 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:51:26,520 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:51:26,533 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:51:26,537 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:54:11,918 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:54:11,930 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:54:11,936 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:56:36,649 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:56:36,657 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:56:36,661 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:56:47,530 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:56:47,538 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:56:47,541 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:57:59,925 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:57:59,937 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:57:59,941 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:58:32,142 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:58:32,156 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:58:32,160 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 04:59:38,172 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 04:59:38,180 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 04:59:38,183 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:00:08,734 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:00:08,744 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:00:08,747 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:01:26,540 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:01:26,559 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:01:26,566 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:02:07,216 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:02:07,223 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:02:07,227 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:02:43,299 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:02:43,307 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:02:43,313 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:02:53,442 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:02:53,447 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:02:53,454 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:04:25,760 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:04:25,766 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:04:25,771 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:04:31,788 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:04:31,794 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:04:31,798 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:04:56,056 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:04:56,062 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:04:56,066 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:05:21,256 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:05:21,262 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:05:21,268 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:08:32,874 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:08:32,885 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:08:32,889 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:09:13,582 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:09:13,595 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:09:13,599 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:09:42,253 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:09:42,314 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:09:42,321 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:10:24,191 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:10:24,236 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:10:24,243 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:10:33,833 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:10:33,841 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:10:33,847 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:10:42,412 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:10:42,428 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:10:42,434 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:11:29,953 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:11:29,983 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:11:29,988 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:11:38,073 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:11:38,079 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:11:38,091 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:12:00,047 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:12:00,053 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:12:00,057 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:12:27,003 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:12:27,011 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:12:27,016 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:12:46,625 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:12:46,631 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:12:46,636 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:13:16,964 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:13:16,971 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:13:16,975 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:16:33,771 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:16:33,830 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:16:33,834 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:16:41,219 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:16:41,230 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:16:41,235 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:17:20,042 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:17:20,073 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:17:20,079 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:21:12,974 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:21:12,996 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:21:13,000 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:21:43,707 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:21:43,716 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:21:43,719 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:22:25,134 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:22:25,143 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:22:25,147 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:23:42,024 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:23:42,050 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:23:42,059 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:23:48,279 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:23:48,283 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:23:48,288 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:24:08,056 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:24:08,063 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:24:08,065 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:24:30,540 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:24:30,558 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:24:30,565 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:25:56,305 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:25:56,311 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:25:56,314 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:27:58,843 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:27:58,852 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:27:58,856 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:28:42,251 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:28:42,262 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:28:42,266 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:29:25,441 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:29:25,452 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:29:25,455 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:29:36,028 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:29:36,035 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:29:36,039 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:29:52,879 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:29:52,887 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:29:52,889 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:30:17,794 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:30:17,809 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:30:17,816 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 05:38:34,981 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 05:38:35,097 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 05:38:35,104 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:00:47,140 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:00:47,326 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:00:47,367 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:02:24,152 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:02:24,213 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:02:24,217 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:03:25,542 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:03:25,574 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:03:25,578 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:03:56,341 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:03:56,354 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:03:56,359 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:04:22,953 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:04:22,961 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:04:22,967 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:24:19,201 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:24:19,203 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:24:19,206 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:24:36,899 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:24:36,901 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:24:36,905 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:27:06,932 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:27:06,976 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:27:06,983 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:29:08,433 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:29:08,439 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:29:08,444 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:29:59,151 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:29:59,153 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:29:59,160 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:30:21,054 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:30:21,061 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:30:21,064 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:32:54,760 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:32:54,780 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:32:54,782 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:33:14,883 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:33:14,953 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:33:14,955 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:34:47,227 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:34:47,264 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:34:47,267 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:36:01,778 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:36:01,791 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:36:01,794 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:38:12,793 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:38:12,919 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:38:12,930 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:40:03,517 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:40:03,554 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:40:03,558 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:43:11,251 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:43:11,279 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:43:11,281 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:43:42,159 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:43:42,168 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:43:42,171 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:45:17,029 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:45:17,055 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:45:17,058 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:46:28,386 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:46:28,388 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:46:28,391 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:46:36,709 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:46:36,710 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:46:36,714 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:48:04,995 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:48:05,033 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:48:05,036 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:55:53,681 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:55:53,842 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:55:53,849 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:56:25,576 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:56:25,644 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:56:25,652 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:56:29,829 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:56:29,883 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:56:29,887 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:57:09,912 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:57:09,953 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:57:09,961 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:57:22,290 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:57:22,331 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:57:22,337 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:58:14,425 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:58:14,433 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:58:14,438 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:59:02,696 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:59:02,708 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:59:02,713 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 06:59:10,521 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 06:59:10,527 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 06:59:10,529 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:04:11,013 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:04:11,017 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:04:11,022 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:04:46,446 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:04:46,451 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:04:46,455 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:07:20,639 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:07:20,641 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:07:20,651 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:08:22,279 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:08:22,281 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:08:22,286 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:09:13,262 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:09:13,264 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:09:13,267 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:09:28,914 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:09:28,914 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:09:28,920 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:09:59,109 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:09:59,109 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:09:59,113 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:10:10,186 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:10:10,187 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:10:10,192 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:10:32,186 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:10:32,187 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:10:32,190 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:10:48,029 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:10:48,029 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:10:48,033 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:12:42,751 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:12:42,799 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:12:42,802 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:14:09,457 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:14:09,470 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:14:09,473 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:14:17,369 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:14:17,394 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:14:17,400 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:14:24,704 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:14:24,819 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:14:24,823 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:18:07,874 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:18:07,876 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:18:07,880 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:18:16,491 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:18:16,491 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:18:16,494 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:18:23,844 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:18:23,849 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:18:23,852 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:21:27,714 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:21:27,746 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:21:27,748 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:23:51,897 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:23:51,898 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:23:51,901 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:27:04,221 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:27:04,245 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:27:04,252 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:31:20,386 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:31:20,431 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:31:20,438 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:31:28,702 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:31:28,812 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:31:28,814 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:31:32,851 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:31:32,859 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:31:32,862 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:33:00,423 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:33:00,425 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:33:00,427 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:33:10,044 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:33:10,044 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:33:10,048 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:33:38,266 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:33:38,273 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:33:38,275 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:34:51,046 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:34:51,047 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:34:51,050 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:36:21,656 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:36:21,675 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:36:21,679 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:53:48,032 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:53:48,117 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:53:48,119 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 07:58:53,372 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 07:58:53,404 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 07:58:53,426 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 08:47:00,265 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 08:47:00,334 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 08:47:00,337 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 08:48:52,072 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 08:48:52,195 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 08:48:52,198 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 08:51:04,919 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 08:51:04,927 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 08:51:04,930 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 08:51:39,337 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 08:51:39,344 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 08:51:39,347 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 08:52:36,248 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 08:52:36,249 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 08:52:36,252 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 08:52:40,470 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 08:52:40,471 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 08:52:40,473 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 08:53:19,206 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 08:53:19,244 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 08:53:19,246 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:09:27,933 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:09:27,992 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:09:27,997 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:09:54,358 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:09:54,368 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:09:54,370 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:10:11,689 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:10:11,698 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:10:11,702 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:11:05,653 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:11:05,689 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:11:05,691 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:13:58,405 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:13:58,411 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:13:58,416 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:20:33,351 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:20:33,379 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:20:33,383 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:23:14,295 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:23:14,308 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:23:14,311 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:23:38,172 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:23:38,206 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:23:38,212 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:24:09,406 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:24:09,416 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:24:09,418 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:35:36,106 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:35:36,130 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:35:36,132 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:39:44,105 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:39:44,121 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:39:44,124 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:43:11,377 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:43:11,388 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:43:11,390 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:43:39,359 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:43:39,393 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:43:39,394 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:46:18,755 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:46:18,764 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:46:18,767 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:46:53,590 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:46:53,598 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:46:53,600 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:49:08,663 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:49:08,665 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:49:08,668 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:49:20,155 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:49:20,155 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:49:20,158 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 10:51:21,721 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 10:51:21,736 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 10:51:21,738 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 16:57:13,336 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 16:57:13,338 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 16:57:13,346 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:00:27,438 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 17:00:27,620 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:00:27,622 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:10:58,536 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:10:58,538 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:10:58,545 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:15:22,417 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:15:22,423 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:15:22,426 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:17:44,208 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 17:17:44,344 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:17:44,347 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:19:32,515 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 17:19:32,622 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:19:32,626 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:22:06,742 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 17:22:06,753 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:22:06,757 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:23:16,284 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-14 17:23:17,186 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.loginregistration:LoginRegistration:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/pom.xml.
+2023-05-14 17:23:19,292 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegistration/src/main/java
+2023-05-14 17:23:19,293 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginRegistration/src/main/resources
+2023-05-14 17:23:19,293 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginRegistration/src/main/resources
+2023-05-14 17:23:19,294 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegistration/src/test/java
+2023-05-14 17:23:20,141 [Worker-36: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2023-05-14 17:23:20,147 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2023-05-14 17:23:20,566 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 17:23:20,641 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:23:20,647 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:23:20,648 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2023-05-14 17:23:20,648 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2023-05-14 17:34:32,263 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 17:34:32,439 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:34:32,450 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:37:39,290 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:37:39,292 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:37:39,295 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:41:04,586 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 17:41:04,636 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:41:04,642 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:41:12,772 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 17:41:12,839 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:41:12,843 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:42:21,388 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:42:21,390 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:42:21,394 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:45:39,976 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:45:39,978 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:45:39,982 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:47:18,522 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:47:18,524 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:47:18,533 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:49:08,282 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:49:08,284 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:49:08,288 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:50:05,827 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:50:05,829 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:50:05,832 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:50:25,279 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:50:25,279 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:50:25,281 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:51:09,662 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:51:09,665 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:51:09,669 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:56:15,544 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:56:15,547 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:56:15,550 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:57:00,091 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:57:00,093 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:57:00,104 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 17:58:12,334 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:58:12,341 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 17:58:12,344 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:00:22,594 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:00:22,598 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:00:22,624 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:06:15,095 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:06:15,098 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:06:15,102 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:07:21,670 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:07:21,673 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:07:21,676 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:09:47,213 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:09:47,304 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:09:47,483 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:09:58,275 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:09:58,446 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:09:58,457 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:10:10,535 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:10:10,576 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:10:10,580 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:10:43,079 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:10:43,162 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:10:43,172 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:11:08,522 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:11:08,601 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:11:08,618 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:11:28,107 [Worker-36: Launching LoginRegistration - LoginRegistrationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:11:28,124 [Worker-36: Launching LoginRegistration - LoginRegistrationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:11:28,127 [Worker-36: Launching LoginRegistration - LoginRegistrationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:15:05,644 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:15:05,647 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:15:05,652 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:17:40,586 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:17:40,587 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:17:40,591 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:17:47,824 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:17:47,824 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:17:47,841 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:18:02,010 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:18:02,011 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:18:02,013 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:19:47,792 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:19:47,794 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:19:47,796 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:19:54,580 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:19:54,580 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:19:54,583 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:22:10,402 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:22:10,405 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:22:10,413 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:23:20,976 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:23:20,978 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:23:20,982 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:24:27,648 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:24:27,649 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:24:27,654 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:24:56,220 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:24:56,220 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:24:56,229 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:32:23,040 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:32:23,044 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:32:23,047 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:32:27,519 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:32:27,519 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:32:27,521 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:33:54,480 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:33:54,604 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:33:54,608 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:34:16,238 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:34:16,245 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:34:16,252 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:34:49,887 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:34:49,953 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:34:49,955 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:35:07,634 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:35:07,803 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:35:07,806 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:35:35,807 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:35:35,808 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:35:35,810 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:35:53,287 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:35:53,291 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:35:53,293 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:36:21,887 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:36:21,888 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:36:21,894 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:37:27,354 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:37:27,356 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:37:27,375 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:38:40,119 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:38:40,121 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:38:40,163 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:45:02,637 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:45:02,706 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:45:02,716 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:46:40,038 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:46:40,107 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:46:40,110 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:48:18,758 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:48:18,817 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:48:18,822 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 18:56:55,567 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 18:56:55,585 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 18:56:55,588 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:02:06,088 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:02:06,242 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:02:06,262 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:06:10,762 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:06:10,842 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:06:10,845 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:06:26,973 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:06:26,975 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:06:26,978 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:06:47,403 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:06:47,427 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:06:47,429 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:10:14,169 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:10:14,170 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:10:14,172 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:12:30,709 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:12:30,712 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:12:30,714 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:14:35,728 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:14:35,729 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:14:35,731 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:15:58,373 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:15:58,375 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:15:58,377 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:17:02,867 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:17:02,870 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:17:02,875 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:17:09,177 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:17:09,178 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:17:09,179 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:23:00,118 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:23:00,172 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:23:00,173 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:24:36,024 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:24:36,032 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:24:36,035 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:26:46,137 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:26:46,161 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:26:46,164 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:27:04,036 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:27:04,042 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:27:04,045 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:31:07,336 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:31:07,339 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:31:07,342 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:31:26,650 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:31:26,651 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:31:26,654 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:31:45,985 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:31:45,986 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:31:45,992 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:33:08,970 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:33:08,971 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:33:08,973 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:33:28,681 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:33:28,681 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:33:28,683 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:35:04,659 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:35:04,661 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:35:04,674 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:39:25,296 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:39:25,302 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:39:25,309 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:39:34,163 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:39:34,163 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:39:34,166 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:41:46,488 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:41:46,520 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:41:46,522 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:49:36,117 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:49:36,143 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:49:36,148 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:51:25,822 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:51:25,832 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:51:25,834 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:52:06,020 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:52:06,032 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:52:06,036 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 19:57:04,219 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 19:57:04,250 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 19:57:04,253 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:00:45,193 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:00:45,209 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:00:45,212 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:01:09,480 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:01:09,489 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:01:09,491 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:01:27,747 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:01:27,782 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:01:27,784 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:03:17,367 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:03:17,384 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:03:17,389 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:03:59,517 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:03:59,532 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:03:59,537 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:07:09,795 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:07:09,800 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:07:09,803 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:08:44,910 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:08:44,911 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:08:44,913 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:11:28,383 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:11:28,400 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:11:28,402 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:11:35,152 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:11:35,160 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:11:35,171 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:14:39,726 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:14:39,728 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:14:39,735 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:14:45,519 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:14:45,519 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:14:45,522 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:15:39,656 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:15:39,658 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:15:39,660 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:16:21,535 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:16:21,541 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:16:21,542 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:19:42,847 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:19:42,849 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:19:42,856 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:20:54,665 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:20:54,667 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:20:54,669 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:21:03,204 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:21:03,206 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:21:03,208 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:21:10,703 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:21:10,704 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:21:10,706 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:24:34,467 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:24:34,590 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:24:34,597 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:24:41,252 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:24:41,282 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:24:41,285 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:24:50,115 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:24:50,183 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:24:50,186 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:24:57,605 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:24:57,651 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:24:57,653 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:25:06,360 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:25:06,369 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:25:06,370 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:25:15,421 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:25:15,426 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:25:15,429 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:25:20,197 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:25:20,206 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:25:20,208 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources
+2023-05-14 20:26:38,567 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-14 20:26:38,597 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-14 20:26:38,603 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/LoginRegistration/src/test/resources

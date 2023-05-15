@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3249572203.index
+123089714.index
+3885912691.index
+977680230.index
+3174720067.index
+2634204301.index

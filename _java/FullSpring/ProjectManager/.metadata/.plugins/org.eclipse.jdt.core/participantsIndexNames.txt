@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/977680230.index
+/LoginRegistration/src/main/java
+/Users/shathamorales/Desktop/LoginRegistration/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/977680230.index
+/LoginRegistration/src/main/java
+/Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/ProjectManager/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2378615110.index
+/LoginRegistration/src/main/java

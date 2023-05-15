@@ -1,0 +1,10 @@
+package com.codingdojo.loginregistration.repositories;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.codingdojo.loginregistration.models.Project;
+
+@Rpository
+public interface ProjectRepository extends CrudRepository<Project, Long>{
+
+}
