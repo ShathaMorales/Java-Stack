@@ -1,0 +1,92 @@
+2023-05-16 14:00:14,569 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-16 14:01:34,079 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.queriesjoins:QueriesJoins:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/pom.xml.
+2023-05-16 14:01:35,982 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QueriesJoins/src/main/java
+2023-05-16 14:01:35,982 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /QueriesJoins/src/main/resources
+2023-05-16 14:01:35,985 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /QueriesJoins/src/main/resources
+2023-05-16 14:01:35,990 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QueriesJoins/src/test/java
+2023-05-16 14:01:39,610 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2023-05-16 14:01:39,618 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-16 14:01:40,022 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.queriesjoins:QueriesJoins:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/pom.xml.
+2023-05-16 14:01:40,726 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QueriesJoins/src/main/java
+2023-05-16 14:01:40,726 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /QueriesJoins/src/main/resources
+2023-05-16 14:01:40,727 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /QueriesJoins/src/main/resources
+2023-05-16 14:01:40,728 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QueriesJoins/src/test/java
+2023-05-16 14:01:42,121 [Worker-8: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for QueriesJoins
+2023-05-16 14:01:42,130 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-05-16 14:01:42,807 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:01:42,848 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:01:42,854 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:01:42,855 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of QueriesJoins
+2023-05-16 14:01:42,857 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for QueriesJoins
+2023-05-16 14:02:16,715 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:02:16,739 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:02:16,745 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:02:29,740 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:02:29,752 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:02:29,757 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:02:50,127 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:02:50,143 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:02:50,150 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:03:03,790 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:03:03,804 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:03:03,812 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:05:36,357 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.queriesjoins:QueriesJoins:0.0.1-SNAPSHOT @ /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/pom.xml.
+2023-05-16 14:05:38,087 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:05:38,087 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:05:38,091 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:05:38,092 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of QueriesJoins
+2023-05-16 14:05:38,092 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for QueriesJoins
+2023-05-16 14:05:39,416 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:05:39,455 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:05:39,460 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:06:05,728 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:06:05,790 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:06:05,797 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:49:13,710 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:49:13,799 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:49:13,812 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:49:30,044 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:49:30,095 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:49:30,103 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:50:18,369 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:50:18,383 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:50:18,387 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:50:48,744 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:50:48,752 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:50:48,755 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:51:18,122 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:51:18,142 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:51:18,147 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:51:28,072 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:51:28,132 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:51:28,142 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:51:52,052 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:51:52,073 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:51:52,077 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:52:00,441 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:52:00,448 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:52:00,451 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:52:29,564 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:52:29,573 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:52:29,578 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:53:45,797 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:53:45,806 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:53:45,810 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:54:31,434 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:54:31,447 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:54:31,452 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:54:46,802 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:54:46,810 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:54:46,815 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:55:00,649 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:55:00,658 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:55:00,664 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:55:12,883 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:55:12,892 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:55:12,897 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:55:48,057 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:55:48,068 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:55:48,072 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources
+2023-05-16 14:56:16,358 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-16 14:56:16,405 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-16 14:56:16,412 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/shathamorales/Desktop/Coding-Dojo/Java-Stack/_java/FullSpring/QueriesJoins/QueriesJoins/src/test/resources

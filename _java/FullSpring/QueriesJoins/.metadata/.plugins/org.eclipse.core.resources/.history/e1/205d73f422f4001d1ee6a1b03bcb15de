@@ -1,0 +1,5 @@
+package com.codingdojo.queriesjoins.repositories;
+
+public interface CountryRepository {
+
+}
